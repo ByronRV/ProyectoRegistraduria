@@ -1,0 +1,2 @@
+client = pymongo.MongoClient("mongodb+srv://Admin:<password>@cluster0.j7gfzcy.mongodb.net/?retryWrites=true&w=majority")
+db = client.test

@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+
+  "data-db-connection": "mongodb+srv://Lider:abc1234@cluster0.w4wq6tq.mongodb.net/proyect_registraduria?retryWrites=true&w=majority",
+  "name-db": "proyect_registraduria"
+}

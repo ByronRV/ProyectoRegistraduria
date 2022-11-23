@@ -1,0 +1,11 @@
+{
+	"seudonimo":"camilo",
+	"correo":"camilo@misiontic.gov.co",
+	"contrasena":"123456"
+}
+
+{
+	"seudonimo":"administrador",
+	"correo":"administrador@misiontic.gov.co",
+	"contrasena":"654321"
+}
